@@ -146,13 +146,6 @@ Frontend runs at → `http://localhost:5173`
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|
-| Your Name | Full-Stack Development |
-| Teammate | ML / Data Science |
-| Teammate | UI/UX Design |
 
 ---
 
