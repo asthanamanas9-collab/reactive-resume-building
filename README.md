@@ -43,11 +43,6 @@ Teachers and academic coordinators often discover that a student is falling behi
 
 
 ```
-📸 Login Page        →  screenshots/login.png
-📸 Dashboard          →  screenshots/dashboard.png
-📸 Prediction Result  →  screenshots/prediction.png
-🎥 Demo Video         →  https://your-demo-link.com
-```
 
 ---
 
