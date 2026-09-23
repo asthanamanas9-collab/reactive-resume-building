@@ -40,9 +40,7 @@ Teachers and academic coordinators often discover that a student is falling behi
 
 ---
 
-## 🖼️ Demo
 
-> _Add your screenshots or a demo GIF here before submitting — judges weigh visuals heavily._
 
 ```
 📸 Login Page        →  screenshots/login.png
@@ -149,10 +147,6 @@ Frontend runs at → `http://localhost:5173`
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
 
 <p align="center">Built with ❤️ for [Hackathon Name] 2026</p>
